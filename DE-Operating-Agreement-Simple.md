@@ -466,3 +466,5 @@ Doc.Title=Operating Agreement of {Co.Name.Full}
 =[Z/Agt/Agt.md]
 
 =[Z/Sec/12]
+
+DocBody=<!DOCTYPE html><html><head><title>{PageName}</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: decimal;} ol ol ol {list-style-type: lower-alpha;} ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol {list-style-type: decimal;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style></head><body>{Doc}
