@@ -8,9 +8,12 @@ This is a repository for simple governing documents for a Delaware LLC, used as 
 * [DE-Operating-Agreement-Simple.ccmac](https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple/blob/master/DE-Operating-Agreement-Simple.ccmac) - Derived from Markdown version, this is the [Common Accord's ccmac] version. Note that this version may not be current with the master.
 * [/examples](https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple/tree/master/examples) — Examples of contracts based on these documents.
 
+## Copyright & License
+
+These documents are Copyright (c) 2015 by the [Participatory Orgs Project](https://github.com/ParticipatoryOrgs/) and are licensed CC-BY ([Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/))
+
 ## Disclaimer
 This repository, and its contents, including any documents, commentary, or any other information therein (the "**Contents**"), are not legal advice nor a substitute for an attorney. The Contents are provided solely for research and informational purposes. Please consult an attorney prior to engaging in any transactions that use or are based on the Contents.
 
 ## Style Guide
 The Contents are initially based on the style guide in _[A Manual of Style for Contract Drafting](http://www.adamsdrafting.com/writing/mscd/)_ by Kenneth A. Adams. We are currently formatting the text using a transitional format that is based on [GitHub-flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) plus some elements of Eris' [Legal Markdown](https://docs.erisindustries.com/tutorials/erislegal/), in particular YAML front-matter and mixins.
-
