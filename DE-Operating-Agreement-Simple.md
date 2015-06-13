@@ -1,15 +1,20 @@
+---
+Co.Name.Full: "FULL COMPANY NAME"
+Doc.Date: "DOCUMENT DATE"
+Co.Addr: "COMPANY ADDRESS"
+Manager.Count.Number: "NUMBER OF MANAGERS"
+Managers.Name.List: "LIST OF MANAGERS"
+TMP.Name.Full: "FULL NAME OF TAX MATTERS PARTNER"
+Arbiration.City: "CITY OF ARBITRATION"
+---
+
 OPERATING AGREEMENT
 
 OF
 
-[INSERT COMPANY NAME]
+{{Co.Name.Full}}
 
-
-
-
-
-
-[insert date]
+{{Doc.Date}}
 
 
 TABLE OF CONTENTS
