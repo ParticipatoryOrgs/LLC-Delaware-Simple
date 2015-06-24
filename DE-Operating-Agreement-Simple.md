@@ -326,7 +326,7 @@ The parties are signing this agreement on the date stated in the introductory cl
 
 
 | Name and Address  | Capital Contribution | Units | Percentage Interest |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | {{Members.Address.List}}  | {{Members.Contribution.List}}  | {{Members.Unit.List}}  | {{Members.Percentage.List}}  |
 
 ---
