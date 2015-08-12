@@ -12,11 +12,11 @@ Members.Contribution.List: "LIST OF CAPITAL CONTRIBUTIONS OF MEMBERS"
 Members.Unit.List: "LIST OF UNITS HELD BY MEMBERS"
 Members.Percentage.List: "LIST OF PERCENTAGE INTERESTS OF MEMBERS"
 ---
-#OPERATING AGREEMENT OF {{Co.Name.Full}}
+# OPERATING AGREEMENT OF {{Co.Name.Full}}
 
 This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is between the parties listed on the signature pages of this agreement.
 
-##Article 1 – Definitions
+## Article 1 – Definitions
 
 1.1	**Definitions**. For purposes of this agreement, the following definitions apply:
 
@@ -78,7 +78,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 "**Unit**" means a measure of a Member's Membership Interest as set forth opposite the name of that Member under the column "Units" in exhibit A.
 
-##Article 2 – Organizational Matters
+## Article 2 – Organizational Matters
 
 2.1	**Name**. The name of the Company is "{{Co.Name.Full}}". The Company may conduct business under that name or any other name approved by the Members. The Managers shall file any fictitious name certificates and similar filings, and any amendments thereto, that the Managers consider appropriate or advisable.
 
@@ -90,7 +90,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 2.5	**Purpose**. The purpose of the Company is to engage in any lawful activity for which a limited liability company may be organized under the Act.
 
-##Article 3 – Capital Contributions
+## Article 3 – Capital Contributions
 
 3.1	**Capital Contributions**. Upon the formation of the Company, each Member contributed, or shall contribute, to the capital of the Company such cash and property as shown opposite the Member's name on the attached exhibit A. No Member will be required to make any additional contributions to the capital of the Company. Additional contributions to the capital of the Company will be made only with the consent of the Managers. The Members shall not withdraw any capital contributions except as provided in this agreement.
 
@@ -100,7 +100,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 3.4	**Member Loans**. Any Member may make a loan to the Company to the extent required to pay the Company's operating expenses, including debt service, on the terms and conditions approved by the Managers.
 
-##Article 4 – Members
+## Article 4 – Members
 
 4.1	**Limited Liability**. Except as expressly set forth in this agreement or required by law, no Member will be personally liable for any debt, obligation, or liability of the Company, whether that liability or obligation arises in contract, tort, or otherwise.
 
@@ -114,7 +114,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 (b)	The closing of the purchase and sale of the selling Member's interest will occur at the principal office of the Company at a time and date mutually agreeable to both Members but no later than 20 business days after the expiration of the 30-day period. The Company and the remaining Members, will arrange to have the selling Member released simultaneously with the closing of the purchase from all indebtedness and guaranties associated with the Company and its properties, and if the holder of that indebtedness or guaranty refuses to consent to the release of the selling Member, the Company and the remaining Members shall indemnify the seller from any and all costs, expenses (including attorney's fees), and losses arising out of or related to that indebtedness or guaranty.  
 
-##Article 5 – Management and Control of the Company
+## Article 5 – Management and Control of the Company
 
 5.1	**Management**. The business, property, and affairs of the Company is managed exclusively by the Managers. The Managers have full, complete, and exclusive authority, power, and discretion to manage and control the business, property, and affairs of the Company, to make all decisions regarding those matters, and to perform any and all other acts or activities customary or incident to the management of the Company's business, property, and affairs.
 
@@ -178,7 +178,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 5.9	**Officers**. The Managers may appoint officers of the Company at any time, who will serve at the discretion of the Managers, subject to all rights, if any, of an officer under an employment contract. The Managers shall determine the powers, duties and compensation of all officers. Subject to the rights, if any, of an officer under an employment contract, any officer may be removed, either with or without cause, by the Managers at any time.
 
-##Article 6 – Allocation of Net Profits, Net Losses, and Distributions
+## Article 6 – Allocation of Net Profits, Net Losses, and Distributions
 
 6.1	**Allocation of Net Profits and Net Losses**. (a) After giving effect to the special allocations set forth in section 6.2 for each fiscal year, Net Profits for each fiscal year will be allocated as follows:
 
@@ -222,7 +222,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 6.7	**Return of Distributions**. Except for distributions made in violation of the Act or this agreement, no Member or Assignee will be obligated to return any distribution to the Company or pay the amount of any distribution for the account of the Company or to any creditor of the Company. The amount of any distribution returned to the Company by a Member or Assignee or paid by a Member or Assignee for the account of the Company or to a creditor of the Company will be added to the account or accounts from which it was subtracted when it was distributed to that Member or Assignee.
 
-##Article 7 – Transfer and Assignment of Interests
+## Article 7 – Transfer and Assignment of Interests
 
 7.1	**Transfer and Assignment of Interests**. A Member may encumber that Member's interest with the prior approval of a Majority Interest of the other Members.  Any encumbrance of a Member's Interest will be null and void unless approved by a Majority Interest of the other Members. The Company will dissolve upon any Member's transfer (other than a transfer that is a prior approved encumbrance) of any portion of that Member's interest.
 
@@ -250,7 +250,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 8.4	**Tax Matters Partner**. {{TMP.Name.Full}} is designated as "Tax Matters Partner" (as defined in Code Section 6231), to represent the Company (at the Company's expense) in connection with all examination of the Company's affairs by tax authorities and to expend Company funds for professional services and costs associated therewith.  
 
-##Article 9 – Dissolution and Winding Up
+## Article 9 – Dissolution and Winding Up
 
 9.1	**Conditions of Dissolution**. The Company shall dissolve upon the occurrence of any of the following events:
 
@@ -270,11 +270,11 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 9.5	**Certificates**. The Company shall file with the Delaware Secretary of State a certificate of dissolution upon the dissolution of the Company and a certificate of cancellation upon the completion of the winding up of the Company's affairs.
 
-##Article 10 – Indemnification
+## Article 10 – Indemnification
 
 10.1	**Indemnification of Agents**. The Company shall indemnify any Member and may indemnify any Person who was or is a party or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding by reason of the fact that such Person is or was a Member, Manager, officer, employee or other agent of the Company or that, being or having been such a Member, Manager, officer, employee or agent, such Person is or was serving at the request of the Company as a manager, director, officer, employee or other agent of another limited liability company, corporation, partnership, joint venture, trust or other enterprise, to the fullest extent permitted by applicable law.
 
-##Article 11 – Investment Representations
+## Article 11 – Investment Representations
 
 11.1	**Investment Representations**. Each Member hereby represents and warrants to, and agrees with, the Members and the Company as follows:
 
@@ -284,7 +284,7 @@ This operating agreement of {{Co.Name.Full}} is dated as of {{Doc.Date}}, and is
 
 3. the Member is acquiring the Membership Interest for investment purposes for the Member's own account only and not with a view to or for sale in connection with any distribution of all or any part of the Membership Interest.  No other person will have any direct or indirect beneficial interest in or right to the Membership Interest.
 
-##Article 12 – Miscellaneous
+## Article 12 – Miscellaneous
 
 12.1	**Entire Agreement**. This agreement constitutes the entire agreement of the parties relating to the subject matter of this agreement and supersedes all other oral or written agreements or policies relating thereto.
 
@@ -322,7 +322,7 @@ The parties are signing this agreement on the date stated in the introductory cl
 
 ---
 
-#EXHIBIT A – CAPITAL CONTRIBUTIONS AND ADDRESSES OF MEMBERS
+# EXHIBIT A – CAPITAL CONTRIBUTIONS AND ADDRESSES OF MEMBERS
 
 
 | Name and Address  | Capital Contribution | Units | Percentage Interest |
@@ -331,7 +331,7 @@ The parties are signing this agreement on the date stated in the introductory cl
 
 ---
 
-##EXHIBIT B – FORM OF CONSENT OF SPOUSE
+## EXHIBIT B – FORM OF CONSENT OF SPOUSE
 
 I, the undersigned, certify and agree that:
 
