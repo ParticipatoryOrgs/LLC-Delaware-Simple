@@ -71,4 +71,30 @@ The Purchaser represents and warrants as follows:
 
 5. the Purchaser has an individual net worth in excess of $1 million not including primary residence, or has individual income in excess of $200,000 in each of the two most recent yeras and reasonably expects an income in excess of $200,000 in the current year or joint income together with his or her spouse or domestic partner of $3000,000 in each of those 2 years and an expected joint income of $300,000 in the current year, and in a partnership, each partner is within the above standard;
 
-6.
+6. the Purchaser has adequate means of providing for the Purchaser's current needs and personal contingencies, has no need for liquidity in this investment, could afford to lose the entire amount of this investment, and understands that the Purchaser may lose this entire investment;
+
+7. the Purchaser is obtaining the Units for the Purchaser's own account (or for a trust account if the Purchaser is a trustee) for investment purposes and not with a view or intention to resell or distribute the same, and has no present intention, agreement, or arrangement to divide the Purchaser's participation with others or to resell, assign, transfer, or otherwise dispose of all or any part of the Units for which the Purchaser has subscribed;
+
+8. the Purchaser has been advised that the Units must be held indefinitely unless (A) distribution of the Units is subsequently registered for resale under the Act or (B) in the opinion of counsel acceptable to the Company, some other exemption from registration under the Act is available;
+
+9. if the Purchaser is a corporation, partnership, trust, or other entity, it is authorized and otherwise duly qualified to purchase and hold the Units in the LLC, and if the Purchaser is one of the aforementioned entities, it agrees to supply any additional written information that might be required; and
+
+10. the Purchaser has such knowledge and experience in business and financial matters that the Purchaser is capable of evaluating the Company and its proposed activities and the risks and merits of investment in the Units and of protecting the Purchaser's interests and making an informed investment decision.
+
+## 4. **Adoption of Operating Agreement.**
+
+The Purchaser adopts, accepts, and agrees to be bound by all of the terms and provisions of the Operating Agreement and to perform all obligations imposed on a member of the Company with respect to the Units. On acceptance of this agreement by the Manager on behalf of the Company the Purchaser will become a member of the Company for all purposes.
+
+## 5. **Indemnification.**
+
+The Purchaser agrees to indemnify the Manager and the Company and hold the Manager and the Company harmless from and against any and all liability, damage, cost, or expense incurred on account or of arising out of:
+
+1. any inaccuracy in the Purchaser's declarations, representations, and warranties stated in this document or in any other declarations, representations, and warranties in other communications to the Company;
+
+2. the disposition of any of the Units that the Purchaser will receive, contrary to the Purchaser's foregoing declarations, representations, and warranties; AND
+
+3. any action, suit, or proceeding based on (A) the claim that declarations, representations, or warranties were inaccurate or misleading or otherwise cause for obtaining damages or redress from the Manager or the Company or (B) the disposition of any o fthe Units or any part of them.
+
+## 6. **Choice of Laws**
+
+This agreement will be construed in accordance with and governed by the laws of the state of Delaware, except for the manner in which the Purchaser elects to take title to the Units, which will be construed in accordance with the laws of the state of the Purchaser's principal residence or executive office.
