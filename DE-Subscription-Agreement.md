@@ -1,7 +1,19 @@
 ---
+Purchaser.Address.Full: "FULL PURCHASER ADDRESS"
 Co.Name.Full: "FULL COMPANY NAME"
 Manager.Name.Full: "FULL MANAGER NAME"
-Price.Total: "Total Purchase Price"
+Manager.Signature: "SIGNATURE OF MANAGER"
+Manager.Signature.Date: "DATE OF MANAGER'S SIGNATURE"
+Price.Total: "TOTAL PURCHASER PRICE"
+Purchaser.Agent.Name.Full: "FULL NAME OF AUTHORIZED AGENT OF PURCHASER"
+Purchaser.Agent.Title: "TITLE OF AUTHORIZED AGENT OF PURCHASER"
+Purchaser.Email: "PURCHASER EMAIL ADDRESS"
+Purchaser.Name.Full: "FULL NAME OF PURCHASER"
+Purchaser.Phone: "PHONE NUMBER OF PURCHASER"
+Purchaser.Signature: "SIGNATURE OF PURCHASER"
+Purchaser.Signature.Date: "DATE OF PURCHASER'S SIGNATURE"
+Purchaser.Subscription.Units.Total: "TOTAL NUMBER OF UNITS SUBSCRIBED FOR BY PURCHASER"
+Purchaser.Tax.Number: "SOCIAL SECURITY OR TAX ID NUMBER OF PURCHASER"
 ---
 # **{{Co.Name.Full}}**
 
@@ -39,7 +51,7 @@ The Purchaser understands and acknowledges that:
 
 6. the offering has not been registered under the Securities Act of 1933, as amended (the "**Act**");
 
-7. the Purchaser understands that the Units have not been qualified as securities with the Commissionr of Corporations of the state of California, and that the issuance of the Units or the payment or receipt of any part of the consideration before qualification is unlawful, unless the transfer of the Units, or any part of them, is exempt from qualification by California Corporations Code §25100, §25102, or §25105;
+7. the Purchaser understands that the Units have not been qualified as securities with the Commissioner of Corporations of the State of California, and that the issuance of the Units or the payment or receipt of any part of the consideration before qualification is unlawful, unless the transfer of the Units, or any part of them, is exempt from qualification by California Corporations Code §25100, §25102, or §25105;
 
 8. the Purchaser understands that, under the requirements of California Corporations Code §25102(a), the rights of all parties to this agreement are expressly condition on qualification being obtained, unless the transfer of the Units is exempt from qualification, and that none of the Units can or will be issued to the Purchaser until the transfer of the Untis is so qualified, unless the transfer of the Untis is exempt from qualification by §25102, §25100, or §25105;
 
@@ -93,8 +105,69 @@ The Purchaser agrees to indemnify the Manager and the Company and hold the Manag
 
 2. the disposition of any of the Units that the Purchaser will receive, contrary to the Purchaser's foregoing declarations, representations, and warranties; AND
 
-3. any action, suit, or proceeding based on (A) the claim that declarations, representations, or warranties were inaccurate or misleading or otherwise cause for obtaining damages or redress from the Manager or the Company or (B) the disposition of any o fthe Units or any part of them.
+3. any action, suit, or proceeding based on (A) the claim that declarations, representations, or warranties were inaccurate or misleading or otherwise cause for obtaining damages or redress from the Manager or the Company or (B) the disposition of any of the Units or any part of them.
 
-## 6. **Choice of Laws**
+## 6. **Choice of Laws.**
 
-This agreement will be construed in accordance with and governed by the laws of the state of Delaware, except for the manner in which the Purchaser elects to take title to the Units, which will be construed in accordance with the laws of the state of the Purchaser's principal residence or executive office.
+This agreement will be construed in accordance with and governed by the laws of the State of Delaware, except for the manner in which the Purchaser elects to take title to the Units, which will be construed in accordance with the laws of the state of the Purchaser's principal residence or executive office.
+
+## 7. **Power of Attorney.**
+
+(a) The Purchaser irrevocably constitutes and appoints the Manager with full power of substitution as his/her true and lawful attorney-in-fact and agent, to execute, acknowledge, verify, swear to, deliver, record, and file, in the Purchaser’s name or his/her assignee’s name, place, and stead, all instruments, documents, and certificates that may from time to time be required by the laws of the United States of America, the State of Delaware, the State of California, and any other state in which the Company conducts or plans to conduct business, or any political subdivision or agency of the government, to effectuate, implement, and continue the valid existence of the Company, including, without limitation, the power of attorney and authority to execute, verify, swear to, acknowledge, deliver, record and file the following:
+
+1. the Operating Agreement, the articles of organization, and all other instruments (including amendments) that the Manager deems appropriate to form, qualify or continue the Company as a limited liability company in the State of Delaware, the State of California, and all other jurisdictions in which the Company conducts or plans to conduct business;
+
+2. all instruments that the Manager deems appropriate to reflect any amendment to the Operating Agreement, or modification of the Company, made in accordance with the terms of the Operating Agreement;
+
+3. a fictitious business name certificate and such other certificates and instruments as may be necessary under the fictitious or assumed name statute from time to time in effect in the State of Delaware, the State of California, and all other jurisdiction in which the Company conducts or plans to conduct business;
+
+4. all instruments relating to the admission of any additional or substituted
+Member; and
+
+5. all conveyances and other instruments that the Manager deems appropriate to reflect the dissolution and termination of the Company pursuant to the terms of the Operating Agreement.
+
+(b) That agent and attorney-in-fact will not have the right, power, or authority to amend or modify the Operating Agreement when acting in those capacities, except to the extent authorized in the Operating Agreement.
+
+(c) The power of attorney granted is a special power of attorney and shall be deemed to be coupled with an interest, shall be irrevocable, shall survive the death, dissolution, bankruptcy, or legal disability of the Purchaser, and shall extend to the Purchaser’s heirs, successors, and assigns. The Purchaser agrees to be bound by any representations made by the Manager acting in good faith under such power of attorney, and each Member waives any and all defenses that may be available to contest, negate, or disaffirm any action of the Manager taken in good faith under such power of attorney.
+
+## 8. **Subscription for Units.**
+
+Number of Units (including fractions of them) subscribed for: {{Purchaser.Subscription.Units.Total}}
+
+Name of Purchaser: {{Purchaser.Name.Full}}
+
+If entity named above,
+
+By: {{Purchaser.Agent.Name.Full}}
+
+Title: {{Purchaser.Agent.Title}}
+
+Social Security or taxpayer ID number: {{Purchaser.Tax.Number}}
+
+Mailing Address: {{Purchaser.Address.Full}}
+
+E-Mail Address: {{Purchaser.Email}
+
+Phone Number: {{Purchaser.Phone}}
+
+## 9. **Effectiveness; Date.**
+
+This agreement will become effective when the Purchaser and the Manager have signed it. The date this agreement is signed by the last party to sign it (as indicated by the date associated with that party’s signature) will be deemed the date of this agreement.
+
+Each party is signing this agreement on the date stated opposite that party’s signature.
+
+PURCHASER: {{Purchaser.Name.Full}}
+
+By: {{Purchaser.Signature}}
+
+Name: {{Purchaser.Agent.Name.Full}}
+
+Title: {{Purchaser.Agent.Title}}
+
+Date: {{Purchaser.Signature.Date}}
+
+MANAGER: {{Manager.Name.Full}}
+
+By: {{Manager.Signature}}
+
+Date: {{Manager.Signature.Date}}
